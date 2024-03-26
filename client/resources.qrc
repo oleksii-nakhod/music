@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icons/play.png</file>
+        <file>resources/icons/pause.png</file>
+        <file>resources/icons/previous.png</file>
+        <file>resources/icons/fast-forward.png</file>
+        <file>resources/icons/shuffle.png</file>
+        <file>resources/icons/next.png</file>
+        <file>resources/icons/add-list.png</file>
+        <file>resources/icons/close.png</file>
+        <file>resources/icons/disc.png</file>
+        <file>resources/icons/earbuds.png</file>
+        <file>resources/icons/eject.png</file>
+        <file>resources/icons/equalizer.png</file>
+        <file>resources/icons/film.png</file>
+        <file>resources/icons/fullscreen.png</file>
+        <file>resources/icons/headphone.png</file>
+        <file>resources/icons/love.png</file>
+        <file>resources/icons/menu (1).png</file>
+        <file>resources/icons/menu.png</file>
+        <file>resources/icons/microphone.png</file>
+        <file>resources/icons/minimize.png</file>
+        <file>resources/icons/minus.png</file>
+        <file>resources/icons/music.png</file>
+        <file>resources/icons/music-file.png</file>
+        <file>resources/icons/mute.png</file>
+        <file>resources/icons/playlist.png</file>
+        <file>resources/icons/plus.png</file>
+        <file>resources/icons/power.png</file>
+        <file>resources/icons/radio.png</file>
+        <file>resources/icons/record.png</file>
+        <file>resources/icons/repeat.png</file>
+        <file>resources/icons/repeat-once.png</file>
+        <file>resources/icons/replay.png</file>
+        <file>resources/icons/rewind.png</file>
+        <file>resources/icons/search.png</file>
+        <file>resources/icons/silent.png</file>
+        <file>resources/icons/speaker.png</file>
+        <file>resources/icons/star.png</file>
+        <file>resources/icons/stop.png</file>
+        <file>resources/icons/video (1).png</file>
+        <file>resources/icons/video.png</file>
+        <file>resources/icons/video-camera.png</file>
+        <file>resources/icons/video-file.png</file>
+        <file>resources/icons/video-player.png</file>
+        <file>resources/icons/volume.png</file>
+        <file>resources/icons/volume_1.png</file>
+        <file>resources/icons/volume-down.png</file>
+        <file>resources/images/playlist1.jpg</file>
+        <file>resources/images/playlist2.jpg</file>
+        <file>resources/images/playlist3.jpg</file>
+        <file>resources/images/playlist4.jpg</file>
+        <file>resources/images/playlist5.jpg</file>
+        <file>resources/images/playlist6.jpg</file>
+        <file>resources/images/playlist7.jpg</file>
+        <file>resources/images/playlist8.jpg</file>
+        <file>resources/icons/appico.ico</file>
+        <file>resources/icons/home.png</file>
+        <file>resources/icons/library.png</file>
+        <file>resources/icons/music16.png</file>
+        <file>resources/icons/music256.png</file>
+        <file>resources/icons/music32.png</file>
+        <file>resources/icons/heart_empty.png</file>
+        <file>resources/icons/heart_filled.png</file>
+    </qresource>
+</RCC>
